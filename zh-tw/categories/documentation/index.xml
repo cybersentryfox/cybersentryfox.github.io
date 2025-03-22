@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文件 on 我的網路安全作品集</title>
+    <link>http://localhost:1313/zh-tw/categories/documentation/</link>
+    <description>Recent content in 文件 on 我的網路安全作品集</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <copyright>此作品遵循創用CC 姓名標示-非商業性 4.0 國際許可協議</copyright>
+    <atom:link href="http://localhost:1313/zh-tw/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

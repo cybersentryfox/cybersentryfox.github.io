@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dropout Analysis on </title>
+    <link>http://localhost:1313/en/tags/dropout-analysis/</link>
+    <description>Recent content in Dropout Analysis on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/dropout-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open University Student Dropout Analysis</title>
+      <link>http://localhost:1313/en/docs/open-university/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/docs/open-university/</guid>
+      <description>&lt;h1 id=&#34;open-university-student-dropout-analysis&#34;&gt;Open University Student Dropout Analysis&lt;/h1&gt;&#xA;&lt;p&gt;A predictive data analysis project exploring factors influencing student dropout rates at The Open University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-data--tools&#34;&gt;📊 Data &amp;amp; Tools&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Pandas, NumPy, Excel, SQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Predictive Modeling:&lt;/strong&gt; Scikit-learn, Decision Trees, Logistic Regression&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Visualization:&lt;/strong&gt; Tableau&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-key-insights&#34;&gt;🔍 Key Insights&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Visualized dropout trends and student retention rates.&lt;/li&gt;&#xA;&lt;li&gt;Analyzed correlations between demographics, engagement, and dropouts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🔗 &lt;strong&gt;&lt;a href=&#34;https://public.tableau.com/views/DropoutAnalysisDashboard&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;View Tableau Dashboard&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

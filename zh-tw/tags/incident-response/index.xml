@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incident Response on 我的網路安全作品集</title>
+    <link>http://localhost:1313/zh-tw/tags/incident-response/</link>
+    <description>Recent content in Incident Response on 我的網路安全作品集</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <copyright>此作品遵循創用CC 姓名標示-非商業性 4.0 國際許可協議</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/tags/incident-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incident Reporting: SmartMeter Co.</title>
+      <link>http://localhost:1313/zh-tw/smartmeter_co/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/smartmeter_co/</guid>
+      <description>A detailed incident report on a cybersecurity breach at SmartMeter Co., analyzing attack vectors and security failures.</description>
+    </item>
+  </channel>
+</rss>

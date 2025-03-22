@@ -1,0 +1,21 @@
++++
+title = "Fake News Discovery - Machine Learning & Data Analysis"
+date = 2025-03-16T00:00:00Z
+categories = ["Data Science", "Machine Learning", "Data Analysis"]
+tags = ["Tableau", "Fake News", "NLP", "Python", "Jupyter Notebook", "Excel", "Predictive Modeling"]
++++
+
+📰 This project explores misinformation detection in social media using **machine learning** and **data visualization**.
+
+### 🛠 Tools Used
+- **Programming:** Python, Jupyter Notebook  
+- **Machine Learning:** NLP, Scikit-learn  
+- **Data Processing:** Pandas, NumPy, Excel  
+- **Data Visualization:** Tableau  
+
+### 📊 Interactive Dashboard
+<a href="https://public.tableau.com/views/FakeNewsDiscovery/Dashboard" target="_blank">
+    <img src="https://public.tableau.com/static/images/Fa/FakeNewsDiscovery/Dashboard/1.png" width="95%" style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;" />
+</a>
+
+🔗 **[Click Here to View Interactive Dashboard](https://public.tableau.com/views/FakeNewsDiscovery/Dashboard)**

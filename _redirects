@@ -1,0 +1,9 @@
+# Redirect all missing zh-cn pages to zh-cn/404.html
+/zh-cn/* /zh-cn/404.html 404
+
+# Redirect all missing zh-tw pages to zh-tw/404.html
+/zh-tw/* /zh-tw/404.html 404
+
+# Global 404 redirect (for any other missing page)
+/* /404.html 404
+
