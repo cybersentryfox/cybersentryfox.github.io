@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fake News on </title>
+    <link>https://cybersentryfox.github.io/en/tags/fake-news/</link>
+    <description>Recent content in Fake News on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cybersentryfox.github.io/en/tags/fake-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fake News Discovery - Machine Learning &amp; Data Analysis</title>
+      <link>https://cybersentryfox.github.io/en/docs/fake-news-detection/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cybersentryfox.github.io/en/docs/fake-news-detection/</guid>
+      <description>&lt;p&gt;📰 This project explores misinformation detection in social media using &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;data visualization&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tools-used&#34;&gt;🛠 Tools Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; NLP, Scikit-learn&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Pandas, NumPy, Excel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Visualization:&lt;/strong&gt; Tableau&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-machine-learning-workflow&#34;&gt;🧠 Machine Learning Workflow&lt;/h3&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;graph LR&#xA;  A[Raw Social Media Data] --&gt; B[Text Preprocessing]&#xA;  B --&gt; C[NLP Techniques]&#xA;  C --&gt; D[Feature Extraction]&#xA;  D --&gt; E[Train/Test Split]&#xA;  E --&gt; F[Model Training]&#xA;  F --&gt; G[Evaluation]&#xA;  G --&gt; H[Prediction]&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-interactive-dashboard&#34;&gt;📊 Interactive Dashboard&lt;/h3&gt;&#xA;&lt;a href=&#34;https://public.tableau.com/views/FakeNewsDiscovery/Dashboard&#34; target=&#34;_blank&#34;&gt;&#xA;    &lt;img src=&#34;https://public.tableau.com/static/images/Fa/FakeNewsDiscovery/Dashboard/1.png&#34; width=&#34;95%&#34; style=&#34;border: 1px solid #ddd; border-radius: 8px; padding: 5px;&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&lt;p&gt;🔗 &lt;strong&gt;&lt;a href=&#34;https://public.tableau.com/views/FakeNewsDiscovery/Dashboard&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;Click Here to View Interactive Dashboard&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

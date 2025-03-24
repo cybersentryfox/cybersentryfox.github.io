@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on </title>
+    <link>https://cybersentryfox.github.io/en/categories/data-science/</link>
+    <description>Recent content in Data Science on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cybersentryfox.github.io/en/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fake News Discovery - Machine Learning &amp; Data Analysis</title>
+      <link>https://cybersentryfox.github.io/en/docs/fake-news-detection/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cybersentryfox.github.io/en/docs/fake-news-detection/</guid>
+      <description>&lt;p&gt;📰 This project explores misinformation detection in social media using &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;data visualization&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tools-used&#34;&gt;🛠 Tools Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; NLP, Scikit-learn&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Pandas, NumPy, Excel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Visualization:&lt;/strong&gt; Tableau&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-machine-learning-workflow&#34;&gt;🧠 Machine Learning Workflow&lt;/h3&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;graph LR&#xA;  A[Raw Social Media Data] --&gt; B[Text Preprocessing]&#xA;  B --&gt; C[NLP Techniques]&#xA;  C --&gt; D[Feature Extraction]&#xA;  D --&gt; E[Train/Test Split]&#xA;  E --&gt; F[Model Training]&#xA;  F --&gt; G[Evaluation]&#xA;  G --&gt; H[Prediction]&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-interactive-dashboard&#34;&gt;📊 Interactive Dashboard&lt;/h3&gt;&#xA;&lt;a href=&#34;https://public.tableau.com/views/FakeNewsDiscovery/Dashboard&#34; target=&#34;_blank&#34;&gt;&#xA;    &lt;img src=&#34;https://public.tableau.com/static/images/Fa/FakeNewsDiscovery/Dashboard/1.png&#34; width=&#34;95%&#34; style=&#34;border: 1px solid #ddd; border-radius: 8px; padding: 5px;&#34; /&gt;&#xA;&lt;/a&gt;&#xA;&lt;p&gt;🔗 &lt;strong&gt;&lt;a href=&#34;https://public.tableau.com/views/FakeNewsDiscovery/Dashboard&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;Click Here to View Interactive Dashboard&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Open University - Student Dropout &amp; Performance Analysis</title>
+      <link>https://cybersentryfox.github.io/en/docs/open-university/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cybersentryfox.github.io/en/docs/open-university/</guid>
+      <description>&lt;p&gt;📊 This project analyzes student demographics and performance metrics from &lt;strong&gt;The Open University&lt;/strong&gt; in the UK, focusing on the October 2014 cohort of &lt;strong&gt;10,670 learners&lt;/strong&gt;. Using Tableau, I explored patterns across &lt;strong&gt;gender, age group, region&lt;/strong&gt;, and &lt;strong&gt;prior education&lt;/strong&gt; to uncover insights that could inform support strategies and curriculum planning.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Previous Education Impact:&lt;/strong&gt; How qualification levels affect dropout rates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Final Results by Gender:&lt;/strong&gt; Performance differences between male and female students.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Age &amp;amp; Region Analysis:&lt;/strong&gt; Understanding &lt;strong&gt;how student demographics vary across the UK&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Students&amp;rsquo; Average GPA:&lt;/strong&gt; Mapping academic performance across different locations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tools-used&#34;&gt;🛠 Tools Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Excel, SQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geospatial Mapping:&lt;/strong&gt; GeoJSON, Mapshaper&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Visualization:&lt;/strong&gt; Tableau&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics Focus:&lt;/strong&gt; Student Retention, Performance Metrics, GIS Mapping&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-geospatial-analysis&#34;&gt;📍 Geospatial Analysis&lt;/h3&gt;&#xA;&lt;p&gt;For mapping regional academic trends, I processed &lt;strong&gt;geospatial data&lt;/strong&gt; using:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
