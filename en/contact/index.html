@@ -193,34 +193,26 @@
 </style>
 
 <div class="contact-container">
-  <form action="https://usebasin.com/f/cc5b55a94eb9" method="POST" id="contact-form">
-    <label for="name">Your Name:</label>
-    <input type="text" name="name" required>
+  
 
-    <label for="email">Your Email:</label>
-    <input type="email" name="email" required>
 
-    <label for="message">Your Message:</label>
-    <textarea name="message" rows="5" required></textarea>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
-    
-    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+<form action="https://usebasin.com/f/cc5b55a94eb9" method="POST">
+  
+  <label for="name">Your Name:</label>
+  <input type="text" name="name" required>
 
-    <button type="submit">Send Message</button>
-  </form>
+  <label for="email">Your Email:</label>
+  <input type="email" name="email" required>
+
+  <label for="message">Your Message:</label>
+  <textarea name="message" rows="5" required></textarea>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAABF5TSdk6zVFRtx3"></div>
+  <button type="submit">Send Message</button>
+</form>
+
 </div>
-
-
-<script src="https://www.google.com/recaptcha/api.js?render=6LfingwrAAAAAJVg3NxDEyzcwCh2llrFleZPav4N" async defer></script>
-
-<script>
-  grecaptcha.ready(function () {
-    grecaptcha.execute('6LfingwrAAAAAJVg3NxDEyzcwCh2llrFleZPav4N', { action: 'submit' }).then(function (token) {
-      document.getElementById('g-recaptcha-response').value = token;
-    });
-  });
-</script>
-
 </div>
 
 </div></div>
