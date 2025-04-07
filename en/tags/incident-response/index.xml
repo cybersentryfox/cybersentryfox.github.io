@@ -11,9 +11,9 @@
     <atom:link href="https://cybersentryfox.github.io/en/tags/incident-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incident Reporting: SmartMeter Co.</title>
-      <link>https://cybersentryfox.github.io/en/smartmeter_co/</link>
+      <link>https://cybersentryfox.github.io/en/portfolio/smartmeter_co/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cybersentryfox.github.io/en/smartmeter_co/</guid>
+      <guid>https://cybersentryfox.github.io/en/portfolio/smartmeter_co/</guid>
       <description>An in-depth cybersecurity incident report on a phishing attack targeting SmartMeter Co.</description>
     </item>
   </channel>

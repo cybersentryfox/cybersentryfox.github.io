@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reports on </title>
-    <link>https://cybersentryfox.github.io/en/categories/reports/</link>
+    <link>http://localhost:1313/en/categories/reports/</link>
     <description>Recent content in Reports on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cybersentryfox.github.io/en/categories/reports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/reports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OT Gap Assessment: GridLink Utilities</title>
-      <link>https://cybersentryfox.github.io/en/gridlink_utilities/</link>
+      <link>http://localhost:1313/en/portfolio/gridlink_utilities/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cybersentryfox.github.io/en/gridlink_utilities/</guid>
+      <guid>http://localhost:1313/en/portfolio/gridlink_utilities/</guid>
       <description>A comprehensive Operational Technology (OT) gap assessment for GridLink Utilities, identifying security gaps and solutions.</description>
     </item>
     <item>
       <title>Power Pulse Vulnerability Assessment</title>
-      <link>https://cybersentryfox.github.io/en/power_pulse/</link>
+      <link>http://localhost:1313/en/portfolio/power_pulse/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cybersentryfox.github.io/en/power_pulse/</guid>
+      <guid>http://localhost:1313/en/portfolio/power_pulse/</guid>
       <description>A structured cybersecurity vulnerability assessment for Power Pulse, focusing on risk prioritization and mitigation strategies.</description>
     </item>
     <item>
       <title>Incident Reporting: SmartMeter Co.</title>
-      <link>https://cybersentryfox.github.io/en/smartmeter_co/</link>
+      <link>http://localhost:1313/en/portfolio/smartmeter_co/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cybersentryfox.github.io/en/smartmeter_co/</guid>
+      <guid>http://localhost:1313/en/portfolio/smartmeter_co/</guid>
       <description>An in-depth cybersecurity incident report on a phishing attack targeting SmartMeter Co.</description>
     </item>
   </channel>
