@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo Mapping on </title>
+    <link>http://localhost:1313/en/tags/geo-mapping/</link>
+    <description>Recent content in Geo Mapping on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/geo-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Open University - Student Dropout &amp; Performance Analysis</title>
+      <link>http://localhost:1313/en/portfolio/open-university/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/portfolio/open-university/</guid>
+      <description>&lt;p&gt;📊 This project analyzes student demographics and performance metrics from &lt;strong&gt;The Open University&lt;/strong&gt; in the UK, focusing on the October 2014 cohort of &lt;strong&gt;10,670 learners&lt;/strong&gt;. Using Tableau, I explored patterns across &lt;strong&gt;gender, age group, region&lt;/strong&gt;, and &lt;strong&gt;prior education&lt;/strong&gt; to uncover insights that could inform support strategies and curriculum planning.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Previous Education Impact:&lt;/strong&gt; How qualification levels affect dropout rates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Final Results by Gender:&lt;/strong&gt; Performance differences between male and female students.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Age &amp;amp; Region Analysis:&lt;/strong&gt; Understanding &lt;strong&gt;how student demographics vary across the UK&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Students&amp;rsquo; Average GPA:&lt;/strong&gt; Mapping academic performance across different locations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tools-used&#34;&gt;🛠 Tools Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Processing:&lt;/strong&gt; Excel, SQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geospatial Mapping:&lt;/strong&gt; GeoJSON, Mapshaper&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Visualization:&lt;/strong&gt; Tableau&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics Focus:&lt;/strong&gt; Student Retention, Performance Metrics, GIS Mapping&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-geospatial-analysis&#34;&gt;📍 Geospatial Analysis&lt;/h3&gt;&#xA;&lt;p&gt;For mapping regional academic trends, I processed &lt;strong&gt;geospatial data&lt;/strong&gt; using:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
