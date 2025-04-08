@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://cybersentryfox.github.io/en/sitemap.xml
+Sitemap: https://www.cybersentryfox.com/en/sitemap.xml
